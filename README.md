@@ -1,2 +1,7 @@
-# demo-maceroni-claudia-marcela
-Demo web para Maceroni Claudia Marcela — diseñada por eterlab.
+# Maceroni Claudia Marcela
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
